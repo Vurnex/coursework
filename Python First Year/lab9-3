@@ -1,0 +1,17 @@
+'''
+
+Lab 9 Question 3
+
+Design a complete program that opens an output file with the external name number_list.dat, 
+uses a loop to write the numbers 1 through 100 to the file, and then closes the file.
+
+'''
+
+def main():
+    #open the file for writing
+    myFile = open("number_list.dat","w")
+
+    for i in range(1, 101): #counts from 1 to 100
+        myFile.write(str(i) +"\n")
+    myFile.close() #close the file
+main()

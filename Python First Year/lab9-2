@@ -1,0 +1,50 @@
+'''
+
+Lab 9 Question 2
+
+Design a complete program that opens the my_name.dat file that was created by the algorithm in #1 above, 
+reads your name from the file, displays the name on the screen, and then closes the file.
+
+'''
+
+def main(): #create an array size 5 and a counter starting at 0
+    arrSize = 1
+    counter = 0
+    userName = [0] * arrSize
+
+    #enters the username
+    for counter in range(arrSize):
+        userName[counter] = input("Please enter your name: ")
+
+    writeToFile(arrSize, userName) #write our data to a file
+    readFromFile(arrSize)
+
+def writeToFile(arraySize, name):
+
+    #open our file for writing
+    myFile = open("my_name.dat","w")
+    count = 0
+    #loop through our array
+    for count in range(arraySize):
+        #write each element of the array to a file
+        myFile.write(name[count] +"\n")
+    myFile.close() #close the file
+
+def readFromFile(arraySize):
+
+    inFile = open("my_name.dat", "r") #opens the file
+    count = 0
+    lines = [0] * arraySize
+
+    #read the data from the file
+    for count in range(arraySize):
+        #read one line at a time and assign to an array element
+        lines[count] = inFile.readline()
+
+    #write our data out to the screen
+    count = 0
+
+    for count in range(arraySize):
+        print(str(count) + ":" + lines[count])
+    inFile.close()
+main()
