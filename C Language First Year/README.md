@@ -1,0 +1,1 @@
+This folder contains labs that I completed during the Spring 2020 semester of my Sophomore year during my IT Degree. I've uploaded them to demonstrate my learning process over the course of the semester.
