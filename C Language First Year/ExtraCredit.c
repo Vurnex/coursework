@@ -1,26 +1,18 @@
-/*
-
-	Laquon Hamilton
-	Extra Credit
-	5/3/20
-
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
 int newBinary(); 	//convert to base 2
 int newOctal(); 	//convert to base 8
-int newHex();			//convert to base 16
+int newHex();		//convert to base 16
 
 int main()
 {
-  long int newValue;
+  	long int newValue;
 	char tryAgain[5];
 	
 	printf("\nPlease input a positive integer: ");
-  scanf("%ld", &newValue);
+  	scanf("%ld", &newValue);
 
 	newBinary(newValue);
 	newOctal(newValue);
@@ -50,18 +42,18 @@ int newBinary(long int newValue)	//convert to base 2
 	printf("\n%ld in Base 2: ", newValue);
   
 	for (binaryNums = 7; binaryNums >= 0; binaryNums--)
-  {
-    printNum = newValue >> binaryNums;
+	{
+		printNum = newValue >> binaryNums;
 
-    if (printNum & 1)
+		if (printNum & 1)
 		{
-      printf("1");
+			printf("1");
 		}
-    else
+		else
 		{
-      printf("0");
+			printf("0");
 		}
-  }
+	}
 
 	return (newValue);
 }
@@ -91,7 +83,7 @@ int newOctal(long int newValue)	//convert to base 8
 
 int newHex(long int newValue)	//convert to base 16
 {
-		int newQuotient, newRemainder;
+	int newQuotient, newRemainder;
     int i, j = 0;
     char hexadecNum[100];
  
@@ -99,25 +91,25 @@ int newHex(long int newValue)	//convert to base 16
  
     while (newQuotient != 0)
     {
-			newRemainder = newQuotient % 16;
-			
-			if (newRemainder < 10)
-			{
-				hexadecNum[j++] = 48 + newRemainder;
-			}
-			else
-			{
-				hexadecNum[j++] = 55 + newRemainder;
-			}		
-			
-			newQuotient = newQuotient / 16;
+		newRemainder = newQuotient % 16;
+		
+		if (newRemainder < 10)
+		{
+			hexadecNum[j++] = 48 + newRemainder;
+		}
+		else
+		{
+			hexadecNum[j++] = 55 + newRemainder;
+		}		
+		
+		newQuotient = newQuotient / 16;
     }
  
 		printf("\n\n%ld in Base 16: ", newValue);
     
 		for (i = j; i >= 0; i--)
 		{
-      printf("%c", hexadecNum[i]);
+      		printf("%c", hexadecNum[i]);
 		}
 
     return (newValue);
