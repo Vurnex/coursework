@@ -48,6 +48,6 @@ int main()
 
 	//display interest rate
 	printf("\nThe Interest Rate is %.3f", interestRate);
-return 0;
+	return 0;
 
 }

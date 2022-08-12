@@ -37,7 +37,7 @@ int main()
 	}
 	else
 	{
-	weeklySalary = hoursWorked * perhourRate;
+		weeklySalary = hoursWorked * perhourRate;
 	}
 	//display results to our user
 	printf("\nThe per hour rate is $%2.2f", perhourRate);

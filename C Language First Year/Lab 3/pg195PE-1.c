@@ -13,7 +13,7 @@ int main()
 
 	int codeNum = 0;
 
-	printf("\nProgram to determine disk drive manufacturer based on the codenumber entered.\n");
+	printf("\nProgram to determine disk drive manufacturer based on the code number entered.\n");
 
 	printf("\nEnter the code number: ");
 	scanf("%d", &codeNum);
@@ -37,11 +37,11 @@ int main()
 	}
 	else if(codeNum > 4)
 	{
-		printf("\nThe code numbers are bwtween 1-4");
+		printf("\nThe code numbers are between 1-4");
 	}
-		else if(codeNum < 1)
+	else if(codeNum < 1)
 	{
-		printf("\nThe code numbers are bwtween 1-4");
+		printf("\nThe code numbers are b3tween 1-4");
 	}
 
 return 0;

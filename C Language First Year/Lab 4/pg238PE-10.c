@@ -28,7 +28,7 @@ int main()
 	scanf("%f", &gallons);
 
 	//calculate MPG
-  milesPerGallon = (mileage - previousMileage) / gallons;
+  	milesPerGallon = (mileage - previousMileage) / gallons;
 	//calculate cumulative MPG for Part B
 	cumulativeMPG = previousMPG + milesPerGallon;
 	printf("\n---The miles per gallon is: %.2f miles---\n", milesPerGallon);

@@ -22,7 +22,7 @@ int main()
 
 	printf("\nThe monthly payment is %.2f", monthlyPayment);
 	
-  return 0;
+  	return 0;
 }
 
 float payment(float newPayment)//function header
@@ -36,7 +36,7 @@ float payment(float newPayment)//function header
 	scanf("%f", &principal);
 
 	//calculate monthly payment
-	newPayment = (principal / (1 / intRate) - (1 / intRate * (intRate + 1))*pow(intRate, months));
+	newPayment = (principal / (1 / intRate) - (1 / intRate * (intRate + 1)) * pow(intRate, months));
 	newPayment = newPayment * 10;
 
 	return(newPayment);//returns value to main

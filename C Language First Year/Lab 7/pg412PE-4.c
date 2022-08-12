@@ -18,8 +18,8 @@ int main()
 	void findMax(int[ROWS][COLS]);//function prototype
 
 	int newValues[ROWS][COLS] = {8, 16, 9, 52,
-															 3, 15, 27, 6,
-															 14, 25, 2, 10,};//declare the 2D array
+								3, 15, 27, 6,
+								14, 25, 2, 10,};//declare the 2D array
 
 
 	findMax(newValues);//call function

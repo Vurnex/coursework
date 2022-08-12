@@ -23,7 +23,7 @@ int main()
 
 	FILE *inFile;//file declaration
 
-	inFile = fopen("info.txt", "r");//opens and the file and reads from it
+	inFile = fopen("info.txt", "r");//opens the file and reads from it
 	
 	if (inFile == NULL)//check if file exists
 	{

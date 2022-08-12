@@ -20,7 +20,7 @@ int main()
 
 	intType(newValue);//calls the function and sends the entered value to the function
 	
-  return 0;
+  	return 0;
 }
 
 //a.

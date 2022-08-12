@@ -13,7 +13,7 @@
 //begin our main function
 int main()
 {	
-	printf("\nProgram that stores values in three arrays and calculates the elements inthe arrays\n");
+	printf("\nProgram that stores values in three arrays and calculates the elements in the arrays\n");
 
 	void extend(double prices[], double quantity[], double amount[]);//function prototype
 	

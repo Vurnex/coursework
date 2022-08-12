@@ -13,7 +13,7 @@
 int main()
 {
 	//declare and initialize variables
-  float halfDollar = 12.0 * 0.50;
+  	float halfDollar = 12.0 * 0.50;
 	float allQuarters = 20.0 * 0.25;
 	float allDimes = 32.0 * 0.10;
 	float allNickels = 45.0 * 0.05;
