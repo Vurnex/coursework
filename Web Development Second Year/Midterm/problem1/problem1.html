@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+    <title>Problem 1</title>
+
+    <head>
+
+        <script src="problem1script.js"></script>
+        <link rel="stylesheet" href="problem1styles.css">
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Midterm Problem 1</h2>
+
+        <label>
+            <span id="span1">Loan Amount: </span>
+
+            <input type="number" id="loanAmount">
+        </label>
+
+        <br>
+
+        <label>
+            <span id="span2">Interest Rate: </span>
+
+            <input type="number" id="interestRate">
+        </label>
+
+        <br>
+
+        <label>
+            <span id="span3">Required Years: </span>
+
+            <input type="number" id="requiredYears">
+        </label>
+
+        <br>
+
+        <form name="input-form">
+            
+            <input type="button" onclick="calcInterest()" value="Calculate" id = "formButton"/>
+
+        </form>
+
+        <h3 id="displayAmount">Loan Amount: </h3>
+        <p id="finalAmount"></p>
+    
+
+    </body>
+</html>

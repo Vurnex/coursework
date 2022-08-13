@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <script type="text/javascript" language="javascript">
+
+            function examplefunction(){
+
+                var number1 = parseInt(prompt("Enter the first number"));
+
+                var number2 = parseInt(prompt("Enter the second number"));
+
+                var product = number1 * number2
+
+                alert(product)
+
+                document.getElementById("demo").innerHTML = product;
+                document.getElementById("demo").style.color = "red";
+
+            }
+
+        </script>
+    </head>
+
+    <body>
+
+        <h1>This is an example page for ITS362 Quiz 1</h1>
+        
+        <form>
+
+            <input type="button" onclick="examplefunction()" value="Input numbers"/>
+
+        </form>
+
+        <h2>The product is...</h2>
+        <p id="demo"></p>
+
+
+    </body>
+
+    

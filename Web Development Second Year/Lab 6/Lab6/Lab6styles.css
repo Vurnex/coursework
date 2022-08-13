@@ -1,0 +1,21 @@
+#Title {text-align: center;}
+
+#calculator {text-align: center;}
+
+#label1 {position: absolute; top: 70px; left: 600px;}
+#label2 {position: absolute; top: 110px; left: 582px}
+#label3 {position: absolute; top: 150px; left: 487px}
+
+#text1 {position: absolute; top: 70px; left: 740px}
+#text2 {position: absolute; top: 110px; left: 740px}
+#select1 {position: absolute; top: 150px; left: 740px}
+
+#Submit {position: absolute; top: 190px; left: 740px}
+
+#border1 {position: absolute; border-left: 4px solid black; height: 160px; top: 63px; left: 480px}
+#border2 {position: absolute; border-top: 4px solid black; width: 423px; top: 60px; left: 480px}
+#border3 {position: absolute; border-right: 4px solid black; height: 160px; top: 63px; left: 900px}
+#border4 {position: absolute; border-bottom: 4px solid black; width: 423px; top: 220px; left: 480px}
+
+#result {text-align: center;}
+

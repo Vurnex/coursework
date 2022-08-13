@@ -1,0 +1,29 @@
+view.php
+
+<h2><?= esc($students2['FirstName']) ?></h2>
+<p><?= esc($students2['body']) ?></p>
+
+------------------------------------------------
+
+overview.php
+
+<?php if (! empty($students2) && is_array($students2)): ?>
+
+    <?php foreach ($students2 as $student_item): ?>
+
+        <h3><?= esc($student_item['FirstName']) ?></h3>
+
+        <div class="main">
+            <?= esc($student_item['body']) ?>
+        </div>
+        <p><a href="/students/<?= esc($student_item['slug'], 'url') ?>">View student</a></p>
+
+    <?php endforeach ?>
+
+<?php else: ?>
+
+    <h3>No Students</h3>
+
+    <p>Unable to find any students for you.</p>
+
+<?php endif ?>

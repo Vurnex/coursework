@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+    <title>jQuery Basics</title>
+
+    <head>
+
+        <script src="Quiz3script.js"></script>
+        <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="Quiz3styles.css">
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Quiz 2: jQuery Basics</h2>
+
+        <form name="FullTable">
+
+            <label for="TableLabel">
+
+                <span id="TopLabel">Enter the Cell Value</span>
+
+                <input type="text" id="TableInput"/>
+
+            </label>
+            
+            <input type="button" onclick="turnTextRed()" value="Turn Text Red" id="redTextButton"/>
+ 
+
+
+        </form>
+
+        <input type="button" onclick="inputData()" value="Add To Table" id="inputData"/>
+        <input type="button" onclick="centerText()" value="Center Text" id="centerText"/>
+        <input type="button" onclick="addBorders()" value="Add Borders" id="addBorders"/>
+        <input type="button" onclick="removeBorders()" value="Remove Borders" id="removeBorders"/>
+
+        <table id="Table">
+            <tr>
+              <th>Header</th>
+            </tr>
+            <tr>
+              <td>Column Data 1</td>
+            </tr>
+          </table>
+
+          
+    
+
+    </body>
+</html>

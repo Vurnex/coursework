@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+    <title>Lab 2 Grading Page</title>
+
+    <head>
+
+        <script src="Lab2script.js"></script>
+        <link rel="stylesheet" href="Lab2styles.css">
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Lab 2</h2>
+
+        <p>Under the assessment field, please enter "Lab", "Quiz", "Exam", "Project", 
+            "Extra Credit", or "Participation". Under the Grade fields, enter the 
+            percent grade of each assignment. Please only enter the max number of 
+            assessments of each category. Once you have calculated the entire grade, 
+            click on Get Tips for info on how to improve your grade. 
+        </p>
+
+        <form name="input-form">
+
+            <label for="Assessment">
+
+                <span>Assessment</span>
+
+                <input type="text" id="Assessment" />
+
+            </label>
+
+            <label for="Grade">
+
+                <span>Grade</span>
+
+                <input type="number" id="Grade1" />
+                <input type="number" id="Grade2" />
+                <input type="number" id="Grade3" />
+                <input type="number" id="Grade4" />
+                <input type="number" id="Grade5" />
+                <input type="number" id="Grade6" />
+                <input type="number" id="Grade7" />
+                <input type="number" id="Grade8" />
+                <input type="number" id="Grade9" />
+                <input type="number" id="Grade10" />
+                <input type="number" id="Grade11" />
+                <input type="number" id="Grade12" />
+                <input type="number" id="Grade13" />
+                <input type="number" id="Grade14" />
+                <input type="number" id="Grade15" />
+
+            </label>
+            
+            <input type="button" onclick="inputData()" value="Calculate" id = "formButton"/>
+            <input type="button" onclick="clearForm()" value="Clear Form" id = "clearButton"/>
+
+            <input type="button" onclick="redirectPage()" value="Get Tips" id = "getTips"/>
+
+        </form>
+
+        <h3 id="currentGrade">Current Final Grade: </h3>
+        <p id="final"></p>
+        <h4 id="letterGrade">Letter Grade: </h4>
+        <p id="letter"></p>
+    
+
+    </body>
+</html>

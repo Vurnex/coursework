@@ -1,0 +1,32 @@
+label { width: 200px; float: left; margin: 0 20px 0 0; }
+span { display: block; margin: 0 0 3px; font-size: 1.2em; font-weight: bold; }
+#Assessment { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; }
+#Grade1 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade2 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade3 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade4 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade5 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade6 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade7 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade8 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade9 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade10 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade11 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade12 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade13 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade14 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+#Grade15 { width: 200px; margin-bottom: 10px; border: 2px solid #000; padding: 5px; display: none;}
+
+#formButton {position:absolute; top: 150px; left: 450px}
+#clearButton {position:absolute; top: 150px; left: 530px}
+#getTips {position:absolute; top: 150px; left: 620px}
+
+#currentGrade {position:absolute; top: 200px; left: 450px}
+#final {position:absolute; top: 205px; left: 630px}
+
+#letterGrade {position:absolute; top: 250px; left: 450px}
+#letter {position:absolute; top: 255px; left: 550px}
+
+#Title {text-align: center;}
+
+#assignments {width: 100px;}

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+    <title>Lab 4 Grading Page</title>
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="Lab4script.js"></script>
+
+        <link rel="stylesheet" href="Lab4styles.css">
+
+
+        <link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css'rel='stylesheet'>
+              
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" ></script>
+              
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" ></script>
+
+        <script>
+            $(document).ready(function() {
+                $(function() {
+                    $( "#tabs" ).tabs();
+                }); 
+            })
+        </script>
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Lab 4</h2>
+
+        <p>Under the Grade fields, enter the percent grade of each assignment. Once you have calculated the 
+          entire grade, click on Get Tips for info on how to improve your grade.
+        </p>
+
+        <div id="tabs">
+            <ul>
+              <li><a href="#tabs-1" onclick="labClick()">Labs</a></li>
+              <li><a href="#tabs-2" onclick="quizClick()">Quizzes</a></li>
+              <li><a href="#tabs-3" onclick="examClick()">Exams</a></li>
+              <li><a href="#tabs-4" onclick="projectClick()">Project</a></li>
+              <li><a href="#tabs-5" onclick="exCreditClick()">Extra Credit</a></li>
+              <li><a href="#tabs-6" onclick="participationClick()">Participation</a></li>
+            </ul>
+            <div id="tabs-1">
+              <p>Lab grades</p>
+              <ul>
+                <li>Grade 1: <p style="display: inline-block;" id="labList1"></p></li>
+                <li>Grade 2: <p style="display: inline-block;" id="labList2"></p></li>
+                <li>Grade 3: <p style="display: inline-block;" id="labList3"></p></li>
+                <li>Grade 4: <p style="display: inline-block;" id="labList4"></p></li>
+                <li>Grade 5: <p style="display: inline-block;" id="labList5"></p></li>
+                <li>Grade 6: <p style="display: inline-block;" id="labList6"></p></li>
+                <li>Grade 7: <p style="display: inline-block;" id="labList7"></p></li>
+                <li>Grade 8: <p style="display: inline-block;" id="labList8"></p></li>
+                <li>Grade 9: <p style="display: inline-block;" id="labList9"></p></li>
+                <li>Grade 10: <p style="display: inline-block;" id="labList10"></p></li>
+              </ul>
+
+            </div>
+            <div id="tabs-2">
+              <p>Quiz grades</p>
+              <ul>
+                <li>Grade 1: <p style="display: inline-block;" id="quizList1"></p></li>
+                <li>Grade 2: <p style="display: inline-block;" id="quizList2"></p></li>
+                <li>Grade 3: <p style="display: inline-block;" id="quizList3"></p></li>
+                <li>Grade 4: <p style="display: inline-block;" id="quizList4"></p></li>
+                <li>Grade 5: <p style="display: inline-block;" id="quizList5"></p></li>
+                <li>Grade 6: <p style="display: inline-block;" id="quizList6"></p></li>
+                <li>Grade 7: <p style="display: inline-block;" id="quizList7"></p></li>
+                <li>Grade 8: <p style="display: inline-block;" id="quizList8"></p></li>
+                <li>Grade 9: <p style="display: inline-block;" id="quizList9"></p></li>
+                <li>Grade 10: <p style="display: inline-block;" id="quizList10"></p></li>
+              </ul>
+            </div>
+            <div id="tabs-3">
+              <p>Exam grades</p>
+              <ul>
+                <li>Grade 1: <p style="display: inline-block;" id="examList1"></p></li>
+                <li>Grade 2: <p style="display: inline-block;" id="examList2"></p></li>
+              </ul>
+            </div>
+            <div id="tabs-4">
+              <p>Project grade</p>
+              <ul>
+                <li>Grade: <p style="display: inline-block;" id="projectList"></p></li>
+              </ul>
+            </div>
+            <div id="tabs-5">
+              <p>Extra Credit</p>
+              <ul>
+                <li>Grade: <p style="display: inline-block;" id="exCreditList"></p></li>
+              </ul>
+            </div>
+            <div id="tabs-6">
+              <p>Participation</p>
+              <ul>
+                <li>Grade 1: <p style="display: inline-block;" id="participationList1"></p></li>
+                <li>Grade 2: <p style="display: inline-block;" id="participationList2"></p></li>
+                <li>Grade 3: <p style="display: inline-block;" id="participationList3"></p></li>
+                <li>Grade 4: <p style="display: inline-block;" id="participationList4"></p></li>
+                <li>Grade 5: <p style="display: inline-block;" id="participationList5"></p></li>
+                <li>Grade 6: <p style="display: inline-block;" id="participationList6"></p></li>
+                <li>Grade 7: <p style="display: inline-block;" id="participationList7"></p></li>
+                <li>Grade 8: <p style="display: inline-block;" id="participationList8"></p></li>
+                <li>Grade 9: <p style="display: inline-block;" id="participationList9"></p></li>
+                <li>Grade 10: <p style="display: inline-block;" id="participationList10"></p></li>
+                <li>Grade 11: <p style="display: inline-block;" id="participationList11"></p></li>
+                <li>Grade 12: <p style="display: inline-block;" id="participationList12"></p></li>
+                <li>Grade 13: <p style="display: inline-block;" id="participationList13"></p></li>
+                <li>Grade 14: <p style="display: inline-block;" id="participationList14"></p></li>
+                <li>Grade 15: <p style="display: inline-block;" id="participationList15"></p></li>
+              </ul>
+            </div>
+          </div>
+
+        <form name="input-form">
+
+            <label id="Grade">
+
+                <span>Grade</span>
+
+                <input type="number" id="Grade1" title="Enter the first grade."/> <!--Tooltips-->
+                <input type="number" id="Grade2" title="Enter the second grade."/>
+                <input type="number" id="Grade3" title="Enter the third grade."/>
+                <input type="number" id="Grade4" title="Enter the fourth grade."/>
+                <input type="number" id="Grade5" title="Enter the fifth grade."/>
+                <input type="number" id="Grade6" />
+                <input type="number" id="Grade7" />
+                <input type="number" id="Grade8" />
+                <input type="number" id="Grade9" />
+                <input type="number" id="Grade10" />
+                <input type="number" id="Grade11" />
+                <input type="number" id="Grade12" />
+                <input type="number" id="Grade13" />
+                <input type="number" id="Grade14" />
+                <input type="number" id="Grade15" />
+
+            </label>
+            
+            <input type="button" onclick="inputData()" value="Calculate" id = "formButton"/>
+            <input type="button" onclick="clearForm()" value="Clear Form" id = "clearButton"/>
+
+            <input type="button" onclick="redirectPage()" value="Get Tips" id = "getTips"/>
+
+        </form>
+
+        <h3 id="currentGrade">Current Final Grade: </h3>
+        <p id="final"></p>
+        <h4 id="letterGrade">Letter Grade: </h4>
+        <p id="letter"></p>
+    
+
+    </body>
+</html>

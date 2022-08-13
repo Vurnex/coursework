@@ -1,0 +1,26 @@
+#Title {text-align: center;}
+
+#label1 {position: absolute; top: 70px; left: 635px;}
+#label2 {position: absolute; top: 110px; left: 630px}
+#label3 {position: absolute; top: 150px; left: 615px}
+#label4 {position: absolute; top: 190px; left: 600px}
+
+#text1 {position: absolute; top: 70px; left: 740px}
+#text2 {position: absolute; top: 110px; left: 740px}
+#text3 {position: absolute; top: 150px; left: 740px}
+#text4 {position: absolute; top: 190px; left: 740px}
+
+#Submit {position: absolute; top: 230px; left: 740px}
+
+
+#Name {position: absolute; top: 70px; left: 695px;}
+#Age {position: absolute; top: 110px; left: 705px}
+#E-mail {position: absolute; top: 150px; left: 685px}
+#Pet {position: absolute; top: 190px; left: 665px}
+
+#span1 {position: absolute; top: 70px; left: 740px}
+#span2 {position: absolute; top: 110px; left: 740px}
+#span3 {position: absolute; top: 150px; left: 740px}
+#span4 {position: absolute; top: 190px; left: 740px}
+
+#backButton {position: absolute; top: 230px; left: 740px}

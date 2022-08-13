@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+    <title>Quiz 4</title>
+
+    <head>
+
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="Quiz4script.js"></script>
+
+        <link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css'rel='stylesheet'>
+              
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" ></script>
+              
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" ></script>
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Quiz 4</h2>
+
+        Date: <input type="text" id="my_date_picker">
+   
+        <script>
+            $(document).ready(function() {
+              
+                $(function() {
+                    $( "#my_date_picker" ).datepicker();
+                });
+            })
+        </script>
+
+        <table style = "border:1px solid #000; margin-bottom: 30px; margin-top: 30px;" id="Table">
+            <tr>
+              <th style = "border:1px solid #000">Dates</th>
+            </tr>
+            <tr>
+              <td style = "border:1px solid #000"></td>
+            </tr>
+        </table>
+
+        <input type="button" onclick="getDate()" value="Add Date To Table" id="getDate"/>
+
+        <h3></h3>
+        <p></p>
+    
+
+    </body>
+</html>

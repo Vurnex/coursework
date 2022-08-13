@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <script type="text/javascript" language="javascript">
+
+            function examplefunction(){
+
+                let firstName = document.getElementById("fname").value;
+                let lastName = document.getElementById("lname").value;
+                let email = document.getElementById("email").value;
+
+                var joinCredentials = firstName + " " + lastName + " " + email;
+
+                document.getElementById("demo").innerHTML = joinCredentials;
+            }
+
+        </script>
+    </head>
+
+    <body>
+
+        <h1>ITS-362 Quiz 2</h1>
+        
+        <form>
+
+            <input type="text" id="fname" />
+            <input type="text" id="lname" />
+            <input type="text" id="email" />
+
+            <input type="button" onclick="examplefunction()" value="Display Credentials"/>
+
+        </form>
+
+        <h2>Credentials: </h2>
+        <p id="demo"></p>
+
+
+    </body>
+
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+    <title>Lab 3 Grading Page</title>
+
+    <head>
+
+        <script src="Lab3script.js"></script>
+        <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="Lab3styles.css">
+
+    </head>
+
+    <body>
+
+        <h2 id="Title">ITS-362 Lab 3</h2>
+
+        <p>Under the assessment field, choose the assessment you need to input and 
+            the appropriate number of fields will be displayed. Under the Grade fields, 
+            enter the percent grade of each assignment. Once you have calculated the 
+            entire grade, click on Get Tips for info on how to improve your grade.
+        </p>
+
+        <form name="input-form">
+
+            <label for="Assessment">
+
+                <span>Assessment</span>
+
+                <select onchange="getAssessment()" id="assignments">
+                    <option value="0"></option>
+                    <option value="Lab">Lab</option>
+                    <option value="Quiz">Quiz</option>
+                    <option value="Exam">Exam</option>
+                    <option value="Project">Project</option>
+                    <option value="Extra Credit">Extra Credit</option>
+                    <option value="Participation">Participation</option>
+                  </select>
+
+            </label>
+
+            <label for="Grade">
+
+                <span>Grade</span>
+
+                <input type="number" id="Grade1" />
+                <input type="number" id="Grade2" />
+                <input type="number" id="Grade3" />
+                <input type="number" id="Grade4" />
+                <input type="number" id="Grade5" />
+                <input type="number" id="Grade6" />
+                <input type="number" id="Grade7" />
+                <input type="number" id="Grade8" />
+                <input type="number" id="Grade9" />
+                <input type="number" id="Grade10" />
+                <input type="number" id="Grade11" />
+                <input type="number" id="Grade12" />
+                <input type="number" id="Grade13" />
+                <input type="number" id="Grade14" />
+                <input type="number" id="Grade15" />
+
+            </label>
+            
+            <input type="button" onclick="inputData()" value="Calculate" id = "formButton"/>
+            <input type="button" onclick="clearForm()" value="Clear Form" id = "clearButton"/>
+
+            <input type="button" onclick="redirectPage()" value="Get Tips" id = "getTips"/>
+
+        </form>
+
+        <h3 id="currentGrade">Current Final Grade: </h3>
+        <p id="final"></p>
+        <h4 id="letterGrade">Letter Grade: </h4>
+        <p id="letter"></p>
+    
+
+    </body>
+</html>

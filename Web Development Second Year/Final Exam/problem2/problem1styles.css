@@ -1,0 +1,12 @@
+table, th, td { border: 1px solid black; }
+
+#button1 {
+    
+    margin-top: 20px;
+
+}
+
+.display {
+
+    display: none;
+}
