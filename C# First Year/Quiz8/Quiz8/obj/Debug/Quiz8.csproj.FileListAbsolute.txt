@@ -1,0 +1,10 @@
+C:\Users\hamil133\Documents\Quiz8\Quiz8\bin\Debug\Quiz8.exe.config
+C:\Users\hamil133\Documents\Quiz8\Quiz8\bin\Debug\Quiz8.exe
+C:\Users\hamil133\Documents\Quiz8\Quiz8\bin\Debug\Quiz8.pdb
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.csprojAssemblyReference.cache
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.FileIOProgram.resources
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.Properties.Resources.resources
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.csproj.GenerateResource.cache
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.csproj.CoreCompileInputs.cache
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.exe
+C:\Users\hamil133\Documents\Quiz8\Quiz8\obj\Debug\Quiz8.pdb

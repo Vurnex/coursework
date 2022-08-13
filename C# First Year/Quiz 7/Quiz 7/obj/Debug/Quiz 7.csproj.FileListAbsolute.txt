@@ -1,0 +1,11 @@
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\bin\Debug\CustomersDatabase.accdb
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\bin\Debug\Quiz 7.exe.config
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\bin\Debug\Quiz 7.exe
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\bin\Debug\Quiz 7.pdb
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz 7.csprojAssemblyReference.cache
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz_7.Properties.Resources.resources
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz 7.csproj.GenerateResource.cache
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz 7.csproj.CoreCompileInputs.cache
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz 7.exe
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz 7.pdb
+C:\Users\hamil133\Documents\Quiz 7\Quiz 7\obj\Debug\Quiz_7.DataBaseView.resources

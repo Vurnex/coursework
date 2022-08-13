@@ -1,0 +1,7 @@
+C:\Users\hamil133\Documents\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\hamil133\Documents\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\hamil133\Documents\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\hamil133\Documents\FinalExam\FinalExam\obj\Debug\FinalExam.csprojAssemblyReference.cache
+C:\Users\hamil133\Documents\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\hamil133\Documents\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\hamil133\Documents\FinalExam\FinalExam\obj\Debug\FinalExam.pdb

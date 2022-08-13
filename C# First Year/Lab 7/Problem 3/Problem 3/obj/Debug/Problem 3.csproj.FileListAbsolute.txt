@@ -1,0 +1,10 @@
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem 3.csprojAssemblyReference.cache
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem_3.LetsMakeADeal.resources
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem_3.Properties.Resources.resources
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem 3.csproj.GenerateResource.cache
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\hamil133\Documents\Lab 7\Problem 3\Problem 3\obj\Debug\Problem 3.pdb

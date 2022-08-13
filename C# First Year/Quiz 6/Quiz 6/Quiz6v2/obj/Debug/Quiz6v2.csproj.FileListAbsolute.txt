@@ -1,0 +1,10 @@
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\bin\Debug\Quiz6v2.exe.config
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\bin\Debug\Quiz6v2.exe
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\bin\Debug\Quiz6v2.pdb
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.csprojAssemblyReference.cache
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.Form1.resources
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.Properties.Resources.resources
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.csproj.GenerateResource.cache
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.csproj.CoreCompileInputs.cache
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.exe
+C:\Users\hamil133\Documents\Quiz6v2\Quiz6v2\obj\Debug\Quiz6v2.pdb
