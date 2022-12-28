@@ -1,0 +1,16 @@
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.exe
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.deps.json
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.runtimeconfig.json
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.runtimeconfig.dev.json
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.dll
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\bin\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.pdb
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.csproj.AssemblyReference.cache
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.csproj.GenerateResource.cache
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.AssemblyInfoInputs.cache
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.AssemblyInfo.cs
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.csproj.CoreCompileInputs.cache
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.dll
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.pdb
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp-Lab2-DTD.genruntimeconfig.cache
+C:\Users\Laquon\source\repos\WinFormsApp-Lab2-DTD\WinFormsApp-Lab2-DTD\obj\Debug\netcoreapp3.1\WinFormsApp_Lab2_DTD.validationForm.resources

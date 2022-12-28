@@ -1,0 +1,9 @@
+table { width: 50%; }
+
+trow, tdata { display: block; }
+
+trow:first-child > tdata { font-weight: bold; font-size: 20px; }
+
+trow { border-bottom: 1px solid; }
+
+Manufacturer, Mode, Price, Time, Size  { margin-bottom: 0.5em;}

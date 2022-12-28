@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HiNetCloud.Interop.MSXML2/20.7.2.10": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Interop.MSXML2.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Interop.MSXML2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HiNetCloud.Interop.MSXML2/20.7.2.10": {
+      "sha512": "tcwjvIQ123cbcLRBqk4OfEg2g15Ft0mi1xjtA81o8+74dJ3uWdBma7Uhh1ooFgSM24Apv6qHJYPZRF+8ZPF14Q==",
+      "type": "package",
+      "path": "hinetcloud.interop.msxml2/20.7.2.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hinetcloud.interop.msxml2.20.7.2.10.nupkg.sha512",
+        "hinetcloud.interop.msxml2.nuspec",
+        "lib/net46/Interop.MSXML2.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HiNetCloud.Interop.MSXML2 >= 20.7.2.10"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Laquon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Laquon\\source\\repos\\WinFormsAppLab7\\WinFormsAppLab7\\WinFormsAppLab7.csproj",
+      "projectName": "WinFormsAppLab7",
+      "projectPath": "C:\\Users\\Laquon\\source\\repos\\WinFormsAppLab7\\WinFormsAppLab7\\WinFormsAppLab7.csproj",
+      "packagesPath": "C:\\Users\\Laquon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laquon\\source\\repos\\WinFormsAppLab7\\WinFormsAppLab7\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Laquon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "HiNetCloud.Interop.MSXML2": {
+            "target": "Package",
+            "version": "[20.7.2.10, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HiNetCloud.Interop.MSXML2 20.7.2.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "HiNetCloud.Interop.MSXML2",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

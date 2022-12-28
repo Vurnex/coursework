@@ -32,3 +32,7 @@ A repo containing some of my coursework from various courses I took while doing 
 - HTML / CSS / Javascript & jQuery / PHP
 - More SQL
 
+### Fall 2022
+
+- C# (Mobile App Development Using Xamarin Forms / Working With XML / WCF Services)
+

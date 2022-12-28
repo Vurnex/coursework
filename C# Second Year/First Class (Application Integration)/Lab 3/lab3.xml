@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<table
+
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="table.xsd">
+
+    <trow>
+        <tdata>Manufacturer</tdata>
+        <tdata>Model Name</tdata>
+        <tdata>Estimated Price ($)</tdata>
+        <tdata>Flight Time (min)</tdata>
+        <tdata>Model Size</tdata>
+    </trow>
+    <trow>
+        <tdata>DJI</tdata>
+        <tdata>Phantom 3</tdata>
+        <tdata>699</tdata>
+        <tdata>17 to 20</tdata>
+        <tdata>Medium</tdata>
+    </trow>
+    <trow>
+        <tdata>DJI</tdata>
+        <tdata>Inspire 1</tdata>
+        <tdata>2899</tdata>
+        <tdata>18 to 20</tdata>
+        <tdata>Large</tdata>
+    </trow>
+    <trow>
+        <tdata>Yuneec</tdata>
+        <tdata>Q500 4K</tdata>
+        <tdata>1300</tdata>
+        <tdata>20 to 25</tdata>
+        <tdata>Medium</tdata>
+    </trow>
+    <trow>
+        <tdata>3DR Robotics</tdata>
+        <tdata>Solo</tdata>
+        <tdata>999</tdata>
+        <tdata>20 to 25</tdata>
+        <tdata>Medium</tdata>
+    </trow>
+    <trow>
+        <tdata>Hubsan</tdata>
+        <tdata>X4</tdata>
+        <tdata>45</tdata>
+        <tdata>5 to 7</tdata>
+        <tdata>Very Small</tdata>
+    </trow>
+    <trow>
+        <tdata>Horizon Lobby</tdata>
+        <tdata>Blade Nano QX</tdata>
+        <tdata>90</tdata>
+        <tdata>5 to 7</tdata>
+        <tdata>Very Small</tdata>
+    </trow>
+    <trow>
+        <tdata>Parrot</tdata>
+        <tdata>Bebop</tdata>
+        <tdata>499</tdata>
+        <tdata>8 to 10</tdata>
+        <tdata>Very Small</tdata>
+    </trow>
+    <trow>
+        <tdata>Team BlackSheep</tdata>
+        <tdata>TBS Gemini</tdata>
+        <tdata>600</tdata>
+        <tdata>5 to 8</tdata>
+        <tdata>Small</tdata>
+    </trow>
+    <trow>
+        <tdata>3DR Robotics</tdata>
+        <tdata>IRIS</tdata>
+        <tdata>740</tdata>
+        <tdata>10 to 15</tdata>
+        <tdata>Medium</tdata>
+    </trow>
+    <trow>
+        <tdata>3DR Robotics</tdata>
+        <tdata>X8</tdata>
+        <tdata>1300</tdata>
+        <tdata>12 to 17</tdata>
+        <tdata>Large</tdata>
+    </trow>
+</table>

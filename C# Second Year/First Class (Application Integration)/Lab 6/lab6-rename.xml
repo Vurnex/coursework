@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="drones.xslt"?>
+<data>
+  <info>
+    <creator>Manufacturer</creator>
+    <version>Model Name</version>
+    <cost>Estimated Price ($)</cost>
+    <range>Flight Time (min)</range>
+    <proportion>Model Size</proportion>
+  </info>
+  <info>
+    <creator>DJI</creator>
+    <version>Phantom 3</version>
+    <cost>699</cost>
+    <range>17 to 20</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>DJI</creator>
+    <version>Inspire 1</version>
+    <cost>2899</cost>
+    <range>18 to 20</range>
+    <proportion>Large</proportion>
+  </info>
+  <info>
+    <creator>Yuneec</creator>
+    <version>Q500 4K</version>
+    <cost>1300</cost>
+    <range>20 to 25</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>3DR Robotics</creator>
+    <version>Solo</version>
+    <cost>999</cost>
+    <range>20 to 25</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>Hubsan</creator>
+    <version>X4</version>
+    <cost>45</cost>
+    <range>5 to 7</range>
+    <proportion>Very Small</proportion>
+  </info>
+  <info>
+    <creator>Horizon Lobby</creator>
+    <version>Blade Nano QX</version>
+    <cost>90</cost>
+    <range>5 to 7</range>
+    <proportion>Very Small</proportion>
+  </info>
+  <info>
+    <creator>Parrot</creator>
+    <version>Bebop</version>
+    <cost>499</cost>
+    <range>8 to 10</range>
+    <proportion>Very Small</proportion>
+  </info>
+  <info>
+    <creator>Team BlackSheep</creator>
+    <version>TBS Gemini</version>
+    <cost>600</cost>
+    <range>5 to 8</range>
+    <proportion>Small</proportion>
+  </info>
+  <info>
+    <creator>3DR Robotics</creator>
+    <version>IRIS</version>
+    <cost>740</cost>
+    <range>10 to 15</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>3DR Robotics</creator>
+    <version>X8</version>
+    <cost>1300</cost>
+    <range>12 to 17</range>
+    <proportion>Large</proportion>
+  </info>
+  <info>
+    <creator>Hobby King</creator>
+    <version>Quanum Nova</version>
+    <cost>400</cost>
+    <range>8 to 11</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>Traxxas</creator>
+    <version>LaTrax Alias</version>
+    <cost>150</cost>
+    <range>5 to 7</range>
+    <proportion>Small</proportion>
+  </info>
+  <info>
+    <creator>Parrot</creator>
+    <version>AR Drone 2.0</version>
+    <cost>299</cost>
+    <range>9 to 12</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>Lumenier</creator>
+    <version>QAV 400 RTF</version>
+    <cost>970</cost>
+    <range>8 to 12</range>
+    <proportion>Medium</proportion>
+  </info>
+  <info>
+    <creator>Hobbico</creator>
+    <version>Proto X</version>
+    <cost>38</cost>
+    <range>5 to 6</range>
+    <proportion>Crazy Small</proportion>
+  </info>
+</data>

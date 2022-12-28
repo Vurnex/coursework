@@ -1,0 +1,14 @@
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.exe
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.deps.json
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.runtimeconfig.json
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.runtimeconfig.dev.json
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.dll
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\bin\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.pdb
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.csproj.AssemblyReference.cache
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.AssemblyInfoInputs.cache
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.AssemblyInfo.cs
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.csproj.CoreCompileInputs.cache
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.dll
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.pdb
+C:\Users\Laquon\source\repos\ConsoleApp-Lab4-XML\ConsoleApp-Lab4-XML\obj\Debug\netcoreapp3.1\ConsoleApp-Lab4-XML.genruntimeconfig.cache

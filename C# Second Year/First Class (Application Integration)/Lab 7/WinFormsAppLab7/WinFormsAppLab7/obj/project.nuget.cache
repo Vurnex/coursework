@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRJNiYzb2j680yRJEy0tPqaxu468zZAxh6I4mNl95je0zayMXNBQeuZxqmuYzYPL73pAc+lZ/mJjKdfCrpIcNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laquon\\source\\repos\\WinFormsAppLab7\\WinFormsAppLab7\\WinFormsAppLab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laquon\\.nuget\\packages\\hinetcloud.interop.msxml2\\20.7.2.10\\hinetcloud.interop.msxml2.20.7.2.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HiNetCloud.Interop.MSXML2 20.7.2.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "HiNetCloud.Interop.MSXML2",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

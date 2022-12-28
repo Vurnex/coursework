@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsAppLab7/1.0.0": {
+        "dependencies": {
+          "HiNetCloud.Interop.MSXML2": "20.7.2.10"
+        },
+        "runtime": {
+          "WinFormsAppLab7.dll": {}
+        }
+      },
+      "HiNetCloud.Interop.MSXML2/20.7.2.10": {
+        "runtime": {
+          "lib/net46/Interop.MSXML2.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppLab7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HiNetCloud.Interop.MSXML2/20.7.2.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tcwjvIQ123cbcLRBqk4OfEg2g15Ft0mi1xjtA81o8+74dJ3uWdBma7Uhh1ooFgSM24Apv6qHJYPZRF+8ZPF14Q==",
+      "path": "hinetcloud.interop.msxml2/20.7.2.10",
+      "hashPath": "hinetcloud.interop.msxml2.20.7.2.10.nupkg.sha512"
+    }
+  }
+}

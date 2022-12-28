@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<table>
+  <trow>
+    <Manufacturer>Manufacturer</Manufacturer>
+    <Model>Model Name</Model>
+    <Price>Estimated Price ($)</Price>
+    <Time>Flight Time (min)</Time>
+    <Size>Model Size</Size>
+  </trow>
+  <trow>
+    <Manufacturer>DJI</Manufacturer>
+    <Model>Phantom 3</Model>
+    <Price>699</Price>
+    <Time>17 to 20</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>DJI</Manufacturer>
+    <Model>Inspire 1</Model>
+    <Price>2899</Price>
+    <Time>18 to 20</Time>
+    <Size>Large</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Yuneec</Manufacturer>
+    <Model>Q500 4K</Model>
+    <Price>1300</Price>
+    <Time>20 to 25</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>3DR Robotics</Manufacturer>
+    <Model>Solo</Model>
+    <Price>999</Price>
+    <Time>20 to 25</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Hubsan</Manufacturer>
+    <Model>X4</Model>
+    <Price>45</Price>
+    <Time>5 to 7</Time>
+    <Size>Very Small</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Horizon Lobby</Manufacturer>
+    <Model>Blade Nano QX</Model>
+    <Price>90</Price>
+    <Time>5 to 7</Time>
+    <Size>Very Small</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Parrot</Manufacturer>
+    <Model>Bebop</Model>
+    <Price>499</Price>
+    <Time>8 to 10</Time>
+    <Size>Very Small</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Team BlackSheep</Manufacturer>
+    <Model>TBS Gemini</Model>
+    <Price>600</Price>
+    <Time>5 to 8</Time>
+    <Size>Small</Size>
+  </trow>
+  <trow>
+    <Manufacturer>3DR Robotics</Manufacturer>
+    <Model>IRIS</Model>
+    <Price>740</Price>
+    <Time>10 to 15</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>3DR Robotics</Manufacturer>
+    <Model>X8</Model>
+    <Price>1300</Price>
+    <Time>12 to 17</Time>
+    <Size>Large</Size>
+  </trow>
+  <NewElements>
+    <NewElementsAfter>--------</NewElementsAfter>
+  </NewElements>
+  <trow>
+    <Manufacturer>Hobby King</Manufacturer>
+    <Model>Quanum Nova</Model>
+    <Price>400</Price>
+    <Time>8 to 11</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Traxxas</Manufacturer>
+    <Model>LaTrax Alias</Model>
+    <Price>150</Price>
+    <Time>5 to 7</Time>
+    <Size>Small</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Parrot</Manufacturer>
+    <Model>AR Drone 2.0</Model>
+    <Price>299</Price>
+    <Time>9 to 12</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Lumenier</Manufacturer>
+    <Model>QAV 400 RTF</Model>
+    <Price>970</Price>
+    <Time>8 to 12</Time>
+    <Size>Medium</Size>
+  </trow>
+  <trow>
+    <Manufacturer>Hobbico</Manufacturer>
+    <Model>Proto X</Model>
+    <Price>38</Price>
+    <Time>5 to 6</Time>
+    <Size>Crazy Small</Size>
+  </trow>
+</table>

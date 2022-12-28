@@ -1,0 +1,3 @@
+<!ELEMENT table (trow*)>
+<!ELEMENT trow (tdata*)>
+<!ELEMENT tdata (#PCDATA)>

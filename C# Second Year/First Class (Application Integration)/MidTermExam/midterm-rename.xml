@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<Teacher xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="students.xsd">
+  <Student>
+    <Name>Student One</Name>
+    <School>School</School>
+    <Course>
+      <Lab1>90</Lab1>
+      <Lab2>80</Lab2>
+      <Lab3>85</Lab3>
+      <Exam>80</Exam>
+      <Project>
+        <ProjectName>Project 1</ProjectName>
+        <ProjectScore>100</ProjectScore>
+      </Project>
+    </Course>
+  </Student>
+  <Student>
+    <Name>Student Two</Name>
+    <School>School</School>
+    <Course>
+      <Lab1>85</Lab1>
+      <Lab2>80</Lab2>
+      <Lab3>90</Lab3>
+      <Exam>95</Exam>
+      <Project>
+        <ProjectName>Project 1</ProjectName>
+        <ProjectScore>100</ProjectScore>
+      </Project>
+    </Course>
+  </Student>
+</Teacher>
